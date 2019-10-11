@@ -1,7 +1,7 @@
 name: "Math 130"
 output_dir: "."
 navbar:
-  title: "Intro to R"
+  title: "My New Website!"
   left:
   - text: Materials 
     icon: fa-book
@@ -9,16 +9,14 @@ navbar:
 
       
   right:
-    - text: "Help/FAQ"
-      icon: fa-question
+    - text: "Contact Info"
+      icon: fa-atom
       href: faq.html
-    - text: "Syllabus"
-      icon: fa-info-circle
-      href: syllabus.html
+
       
 output:
   html_document:
-    theme: yeti
+    theme: paper
     highlight: tango
     lib_dir: site_libs
     self_contained: no
