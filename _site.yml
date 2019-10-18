@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "My New Website!"
   left:
-  - text: Materials 
+  - text: Projects 
     icon: fa-book
     href: materials.html
 
