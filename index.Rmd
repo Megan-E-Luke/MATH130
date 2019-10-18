@@ -1,16 +1,15 @@
 ---
-title: "Math 130: Introduction to R"
+title: "Personal Website: Megan Luke, Graduate Student"
 ---
 
-This is the landing page for <span style="color:blue">**Introduction to R (MATH 130)**</span> class offered at California State University, Chico. 
+This is the landing page for <span style="color:blue">**Megan Luke (MATH 685 student)**</span> as a project for a pilot class offered at California State University, Chico. 
 
 
 ----
 
-# Target Audience
-Anyone who wants to do their own data analysis! This is a primer to get the complete novice up and running with the basic knowledge of how to use the statistical programming language R for data analysis. Topics include: R programming basics, importing data, properties of tidy data, visualizing data, reproducible research with Markdown and basic data wrangling. Designed to get you up and running with basic knowledge of `R` and Markdown ASAP. This course is designed as a pre-requisite for most upper division Statistics, and all Data Science courses which use R heavily.
+# Introduction
+I am a graduate student at California State University, Chico. I am in the process of completing an Interdisciplinary Master's degree in Integrated Pest Management and Agroecology. While I love field work and agronomic research, in my time at Chico State I have also discovered a love for code and data science! This website is an experiment in keeping an online portfolio of my research, and an opportunity to continue to display my skills both as a researcher, and as a data scientist. Thanks for visiting!
 
-See the [syllabus](syllabus.html) for details about the current class offerings.   
 
 --------------------------------
 
@@ -18,12 +17,9 @@ See the [syllabus](syllabus.html) for details about the current class offerings.
 
 _This site is currently being updated for Fall 19._
 
---------------------------------
-
-# Schedule
-
 
 ----
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This content was developed by <a href="www.norcalbiostat.com">Robin Donatello</a> and is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 

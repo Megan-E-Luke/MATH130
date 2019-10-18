@@ -4,10 +4,13 @@ date: "Last Updated `r Sys.time()`"
 output: html_document
 ---
 
- Megan Luke
- California State University, Chico
- (530)566-6434
- mluke2@mail.csuchico.edu
+Megan Luke
+----------------
+California State University, Chico
+----------------
+(530)566-xxxx
+--------------
+mluke2@mail.csuchico.edu
 
     
    
