@@ -17,7 +17,9 @@ opts_chunk$set(echo = FALSE)
 
 ### Exploratory Analysis 
 
-* [2017: Volatilization Study](VolatilizationStudy2017/2017_Volatilization_Study.html)
+* [2017: Volatilization Study](VolatilizationStudy2017/Natural_Science_Poster_Final_with_All_Updates.pdf)
+
+
 
 
 

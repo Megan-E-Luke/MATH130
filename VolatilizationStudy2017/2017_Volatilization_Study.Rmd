@@ -9,6 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Going to put images and story here!
+![Natural Sciences Poster 2017, Volatilization Rate Study for Walnut Husk Fly Mass Trapping Study](VolatilizationStudy2017/Natural Science Poster Final.png)
 
 
