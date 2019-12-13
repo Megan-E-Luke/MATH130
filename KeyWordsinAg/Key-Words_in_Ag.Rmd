@@ -1,0 +1,33 @@
+---
+title: "Keywords in Ag Tutorial"
+author: "Megan Luke"
+date: "12/13/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The purpose of this tutorial is to demonstrate how to use a Twitter developer app to collect and analyze key word trends on topics in agriculture.
+
+## Using rtweet
+
+First things first, you will need to download the appropriate libraries for use in R.
+
+
+```{r}
+library(rtweet)
+library(httr)
+library(tidyverse)
+```
+
+Next, if you don't already have one, you will need to create a personal Twitter account at www.twitter.com
+
+
+## Creating an API
+
+This part of the tutorial may take a little time, as applications for developer apps are reviewed by Twitter staff. There is a ton of information about what you can do with a developer app at developer.twitter.com
+
+
+

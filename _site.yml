@@ -1,7 +1,7 @@
 name: "Megan Luke"
 output_dir: "."
 navbar:
-  title: "My New Website!"
+  title: "Data Science and Stats Portfolio"
   left:
   - text: Projects 
     icon: fa-book
