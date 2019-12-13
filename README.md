@@ -1,7 +1,7 @@
-# MATH130
-Course materials for MATH 130 at CSU Chico - Introduction to R
+# Megan Luke
+Personal Website for Megan Luke, Graduate Student at California State University, Chico  Interdisciplinary Studies
 
-Course website: https://norcalbiostat.github.io/MATH130/
+Course website: https://norcalbiostat.github.io/MeganELuke/
 
 ----
 
